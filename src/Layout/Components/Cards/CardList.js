@@ -6,7 +6,7 @@ function CardList({deck}) {
     const { cards = []} = deck
 
     function deleteHandler(cardId) {
-        const confirmed = window.confirm("Do you really want to delete this?");
+        const confirmed = window.confirm("Delete Card? You will not be able to recover it.");
         if (confirmed) {
             deleteCard(cardId)
         }
