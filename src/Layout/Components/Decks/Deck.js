@@ -15,7 +15,7 @@ function Deck() {
     },[deckId]);
 
     function deleteHandler(deckId) {
-        const confirmed = window.confirm('Do you really want to delete this?');
+        const confirmed = window.confirm('Delete deck? You will not be able to recover it.');
         if (confirmed) {
             deleteDeck(deckId)
         }
