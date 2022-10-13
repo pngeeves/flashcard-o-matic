@@ -1,4 +1,4 @@
-# Overview
+## Overview
 This application is the final capstone for Thinkful's software engineering curriculum.<br/> 
 
 Flashcard-o-matic serves as an application for users to create, edit, and delete decks of digital flashcards.
