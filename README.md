@@ -10,7 +10,7 @@ Additionally, multiple cards are set as a deck for easy organization.
  - React 
  - HTML 
  - CSS
- - Bootstrap.
+ - Bootstrap
  
 ## Installation 
 1. Fork/clone this repository
